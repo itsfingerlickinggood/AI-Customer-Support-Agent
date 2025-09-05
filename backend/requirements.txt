@@ -15,3 +15,7 @@ pydantic>=2.0.0  # Data validation
 pydantic-settings>=2.0.0  # Settings management
 python-dotenv>=1.0.0  # Environment variables
 httpx>=0.25.0  # HTTP client
+
+# Testing dependencies
+pytest>=7.0.0  # Testing framework
+pytest-asyncio>=0.21.0  # Async testing support
